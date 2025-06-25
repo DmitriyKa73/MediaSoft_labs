@@ -1,0 +1,6 @@
+
+7
+java:S1220""Move this file to a named package.8ÔãœÀú2
+z	java:S116"YRename this field "Full_name_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÙìÍûÿÿÿÿ8ÖãœÀú2
+x	java:S116"\Rename this field "Date_open_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à Þ¦8ÖãœÀú2
+{	java:S116"ZRename this field "Blocked_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(« «šÿÿÿÿÿ8ÖãœÀú2
