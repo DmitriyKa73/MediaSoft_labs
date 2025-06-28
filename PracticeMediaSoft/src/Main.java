@@ -1,19 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        BankAccount person1 = new BankAccount("Иван");
-        BankAccount person2 = new BankAccount("Мария");
+        BankAccount acc1 = new BankAccount("Дима");
+        BankAccount acc2 = new BankAccount("Дима");
 
-        person1.deposit(500);
-        person1.displayInfo();
+        acc1.deposit(500);
+        acc2.deposit(500);
 
-        person1.withdraw(200);
-        person1.displayInfo();
+        System.out.println(acc1);
+        System.out.println(acc2);
 
-        person1.transfer(person2, 150);
-        person1.displayInfo();
-        person2.displayInfo();
-
-        boolean result = person1.withdraw(1500);
-        System.out.println("Снятие денег: " + (result ? "успешно" : "неуспешно"));
+        System.out.println("acc1.equals(acc2)? " + acc1.equals(acc2));
     }
 }
