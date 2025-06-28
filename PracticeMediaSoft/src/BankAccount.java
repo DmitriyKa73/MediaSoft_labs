@@ -6,7 +6,6 @@ public class BankAccount {
     private LocalDateTime dateOpened;
     private boolean isBlocked;
 
-    // конструктор
     public BankAccount(String name) {
         this.name = name;
         this.balance = 0;
@@ -21,4 +20,26 @@ public class BankAccount {
         System.out.println("Счёт заблокирован: " + isBlocked);
     }
 
+    public boolean deposit(int amount) {
+        if(amount<=0 || isBlocked)
+            return false;
+        balance += amount;
+        return true;
+        }
+
+    public boolean withdraw(int amount){
+        if(amount<=0 || balance<amount || isBlocked)
+            return false;
+        balance -=amount;
+        return true;
+    }
+
+    public boolean transfer(BankAccount otherAccount, int amount) {
+        if (otherAccount==null || isBlocked || otherAccount.isBlocked)
+            return false;
+        if (amount<=0 || amount>balance)
+            return false;
+        balance -=amount;
+        return true;
+    }
 }

@@ -1,5 +1,4 @@
 
 0
 java:S1220""Move this file to a named package.
-W
-java:S2209"5Change this instance-reference to a static reference.(¡Ìµ×ûÿÿÿÿ8çîéºû2
+G	java:S106"+Replace this use of System.out by a logger.(ÍØ¢²8Áðœ»û2
