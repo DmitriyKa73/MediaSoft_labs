@@ -11,7 +11,7 @@ public class Task1_Massive {
         }
     }
 
-    public static void CarsAfter2015() {
+    public static void carsAfter2015() {
         System.out.println("Машины, выпущенные после 2015 года:");
         for (int year : carYear) {
             if (year > 2015) {
