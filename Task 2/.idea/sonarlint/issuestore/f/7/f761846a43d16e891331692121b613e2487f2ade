@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ĞÜÂÈıÿÿÿÿ8™Äƒ¶ü2
+0
+java:S1220""Move this file to a named package.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ĞÜÂÈıÿÿÿÿ8ŸÄƒ¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(©–ÜÒøÿÿÿÿ8¡Äƒ¶ü2
+F	java:S106"+Replace this use of System.out by a logger.(ÿ®Ái8£Äƒ¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(ÅèÌèûÿÿÿÿ8£Äƒ¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8¤Äƒ¶ü2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(”ªäæşÿÿÿÿ8§Äƒ¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(”ªäæşÿÿÿÿ8§Äƒ¶ü2
+L	java:S106!"+Replace this use of System.out by a logger.(†ŞÑ»ûÿÿÿÿ8§Äƒ¶ü2
+G	java:S106+"+Replace this use of System.out by a logger.(õ•‚8«Äƒ¶ü2

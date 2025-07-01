@@ -4,6 +4,12 @@ public class Task1_Massive {
 
     static int[] carYear = new int[50];
 
+    public static void run() {
+        setCarYear();
+        carsAfter2015();
+        avarageCarsAge();
+    }
+
     public static void setCarYear() {
         Random random = new Random();
         for (int i = 0; i < carYear.length; i++) {

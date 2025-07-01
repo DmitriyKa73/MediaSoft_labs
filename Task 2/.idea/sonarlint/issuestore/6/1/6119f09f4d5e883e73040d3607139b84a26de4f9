@@ -1,0 +1,31 @@
+
+7
+java:S1220""Move this file to a named package.8¦Ü†¶ü2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(œ«ºŒ8­Ü†¶ü2
+G	java:S106	"+Replace this use of System.out by a logger.(¿©›ı8²Ü†¶ü2
+G	java:S106
+"+Replace this use of System.out by a logger.(áìÄ«8²Ü†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(ìµÂÔÿÿÿÿÿ8²Ü†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(‰¦Åùÿÿÿÿ8´Ü†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(Ï²¤Àûÿÿÿÿ8µÜ†¶ü2
+G	java:S106"+Replace this use of System.out by a logger.(ÁÃ“8µÜ†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(†µãëÿÿÿÿÿ8¶Ü†¶ü2
+G	java:S106"+Replace this use of System.out by a logger.(ë°İÈ8¶Ü†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(¢’åİúÿÿÿÿ8·Ü†¶ü2
+G	java:S106"+Replace this use of System.out by a logger.(ò—›‚8¸Ü†¶ü2
+L	java:S106"+Replace this use of System.out by a logger.(ÃäÍËÿÿÿÿÿ8ºÜ†¶ü2
+G	java:S106"+Replace this use of System.out by a logger.(óÏ¿è8»Ü†¶ü2
+G	java:S106"+Replace this use of System.out by a logger.(¾æš’8¼Ü†¶ü2
+G	java:S106!"+Replace this use of System.out by a logger.(Œè’8¼Ü†¶ü2
+L	java:S106$"+Replace this use of System.out by a logger.(ö€ûÿÿÿÿ8¿Ü†¶ü2
+L	java:S106("+Replace this use of System.out by a logger.(Ãá”™ûÿÿÿÿ8ÁÜ†¶ü2
+L	java:S106,"+Replace this use of System.out by a logger.(ÃäÍËÿÿÿÿÿ8ÂÜ†¶ü2
+G	java:S106/"+Replace this use of System.out by a logger.(Áß‡Ü8ÄÜ†¶ü2
+L	java:S1064"+Replace this use of System.out by a logger.(¬®ƒıÿÿÿÿ8ÄÜ†¶ü2
+L	java:S1066"+Replace this use of System.out by a logger.(Ô«ûÙùÿÿÿÿ8ÆÜ†¶ü2
+G	java:S106;"+Replace this use of System.out by a logger.(Áß‡Ü8ÈÜ†¶ü2
+L	java:S106A"+Replace this use of System.out by a logger.(á¤èôûÿÿÿÿ8ÉÜ†¶ü2
+G	java:S106C"+Replace this use of System.out by a logger.(¢¼ ”8ÊÜ†¶ü2
+L	java:S106D"+Replace this use of System.out by a logger.(²«Â¦üÿÿÿÿ8ËÜ†¶ü2
+L	java:S106K"+Replace this use of System.out by a logger.(£³ÑÇøÿÿÿÿ8ÌÜ†¶ü2
