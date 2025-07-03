@@ -19,10 +19,10 @@
 ## Структура репозитория
 
 MediaSoft_labs:
-Task 1/ # Массивы, базовые классы, equals/toString/hashCode
-Task 2/ # Коллекции, HashSet, ArrayList, Stream API
-Task 3/ # Иерархия Room, интерфейсы, enum, исключения
-Task 4/ # Лямбда-выражения, функциональные интерфейсы, аннотации, JSON
+- Task 1/ # Массивы, базовые классы, equals/toString/hashCode
+- Task 2/ # Коллекции, HashSet, ArrayList, Stream API
+- Task 3/ # Иерархия Room, интерфейсы, enum, исключения
+- Task 4/ # Лямбда-выражения, функциональные интерфейсы, аннотации, JSON
 
 
 ---
