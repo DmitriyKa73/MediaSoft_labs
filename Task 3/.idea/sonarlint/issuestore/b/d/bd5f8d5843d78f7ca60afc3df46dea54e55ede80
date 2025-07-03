@@ -1,0 +1,12 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Š¯¤şÿÿÿÿ8Á–¤‚ı2
+7
+java:S1220""Move this file to a named package.8Ã–¤‚ı2
+w	java:S116"VRename this field "number_room" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Šà¦øÿÿÿÿ8æ–¤‚ı2
+|	java:S116"`Rename this field "maxCount_personInRoom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜çâè8æ–¤‚ı2
+[
+java:S5993	"9Change the visibility of this constructor to "protected".(¦Š¯¤şÿÿÿÿ8è–¤‚ı2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãë¨ùÿÿÿÿ8ø–¤‚ı2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾™Ì¸úÿÿÿÿ8û–¤‚ı2
+J
+java:S1172 "-Remove this unused method parameter "booked".(š‘ğ›8ü–¤‚ı2

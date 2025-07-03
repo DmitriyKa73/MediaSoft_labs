@@ -1,5 +1,6 @@
 
 0
 java:S1220""Move this file to a named package.
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¿õçı2
+L	java:S106	"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶Éñ‚ı2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÀÉñ‚ı2
+L	java:S106"+Replace this use of System.out by a logger.(§Ã„ƒüÿÿÿÿ8ÇÉñ‚ı2
