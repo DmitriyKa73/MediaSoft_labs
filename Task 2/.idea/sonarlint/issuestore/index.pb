@@ -5,8 +5,6 @@ F
 src/Task1_Massive.java,8\d\8d3a67959f0522c647a6907f1c48d9e1cd678766
 J
 src/Task2_Collections.java,3\1\312af111be71516e4aa7ae8d4aefe6ddfbc03511
-N
-src/Task3_equals_HashCode.java,f\b\fb520518348a334db14e7cc1f4d9573e4748f12b
 H
 src/Task3_CarEquals.java,f\9\f9cfe0edde031a78baf6916e63e4bd1a40d0c25b
 <
